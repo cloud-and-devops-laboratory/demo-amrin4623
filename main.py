@@ -1,2 +1,2 @@
 def hello():
-    return "" #type your hello here
+    return "hello" #type your hello here
